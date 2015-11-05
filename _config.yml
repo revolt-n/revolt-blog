@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Revolt-n
-tagline:             The Jekyll Butler
+tagline:             Drupal Developer/Themer
 url:                 http://revolt-n.github.io/revolt-blog/
 paginate:            1
 baseurl:             "/revolt-blog"
