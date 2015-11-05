@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://revolt-n.github.io/revolt-blog/
+url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
 
